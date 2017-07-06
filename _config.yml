@@ -9,7 +9,7 @@
 title: Steve Shen
 subtitle: Steve's personal site
 description:  Steve's personal site
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shenh0854.github.io" # the base hostname & protocol for your site
 github_username:  shenh0854
 
