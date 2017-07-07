@@ -7,8 +7,8 @@
 
 # Site settings
 title: Steve Shen
-subtitle: Steve's personal site
-description:  Steve's personal site
+subtitle: Steve的个人站
+description: 新人博主，Python学习者，R语言学习者，初级程序员，机器学习与图像处理学习者。本站空间将用于发布技术学习的记录文档、转载技术文章，同时发布生活日志用于记录和分享。欢迎各位一起交流学习。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shenh0854.github.io" # the base hostname & protocol for your site
 github_username:  shenh0854
