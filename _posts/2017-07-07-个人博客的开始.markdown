@@ -41,24 +41,15 @@ $ jekyll serve
 　　在正式选用jekyll制作博客之前，还尝试过使用hexo来做个人博客。基本的原理和制作过程都差不多。但是由于每次生成博客并提交时都需要通过hexo自带的生成器生成静态网页再提交到GitHub上，且提交时GitHub上只保存静态网页部分。这就使得多个电脑编辑博文，修改博客变得不太方便，因为可能缺少hexo环境。但是jekyll博客的修改只需要改动其中的Markdown文件直接提交就可以了，简单明了。
 
 ---
+#### 博客主题
 
+　　jekyll有许多开源的博客模板可供使用，在http://jekyllthemes.org/ 上可以找到多种样式的博客模板。进入其demo网页查看是否满意，如果喜欢直接到其GitHub上clone下来就可以使用了，修改相关文字内容再post文章上去即可。至于高级的静态博客设计，需要用到HTML和CSS的知识，在此不加赘述，随着学习的深入，博主也会不断美化改观自己的博客。另外在之后会添加jekyll博客的标签、分类和索引，再开启评论区，之后可能会再追加博文介绍。
+　　在使用了相应模板之后，我的博客就成型了。具体的博客目录和博客界面截图如下：
 
+　　![图片](images/目录结构.png)
 
+　　![图片](images/博客界面.png)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+---
+#### Markdown
+　　  
