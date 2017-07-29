@@ -51,6 +51,10 @@ $ jekyll serve
 
 　　![博客界面](images/博客界面.png)
 
+　　{{ "/img/图片名.jpg" }}
+
+　　![博客界面](https://github.com/shenh0854/shenh0854.github.io/tree/master/jekyll-wing-template/images)
+
 ---
 #### Markdown
 　　  
