@@ -47,9 +47,9 @@ $ jekyll serve
 
 　　在使用了相应模板之后，我的博客就成型了。具体的博客目录和博客界面截图如下：
 
-　　![图片](images/目录结构.png)
+　　![目录结构](images/目录结构.png)
 
-　　![图片](images/博客界面.png)
+　　![博客界面](images/博客界面.png)
 
 ---
 #### Markdown
